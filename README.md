@@ -4,14 +4,14 @@
                                                                                                         REG NO : (192512276)
 1. Introduction
 
-   i am s.mishal today i am going to write about the the topic of Develop a portfolio documenting endpoint security policy creation for a
+Iam s.mishal today i am going to write about the the topic of Develop a portfolio documenting endpoint security policy creation for a
 financial institution and Endpoint security policy creation for a financial institution is the process of developing rules and security measures to protect the organization’s computers, laptops, data, and users from cyber threats and unauthorized access.
 
 In a financial institution, computer systems and employee devices are very important because most of the daily work depends on technology. Employees use laptops, desktops, mobile devices and servers to access customer information, financial records, emails and internal applications. Because of this, protecting these devices is not only an IT responsibility but also an important part of protecting the organization itself.
 
 I selected endpoint security because an employee's computer can become an easy entry point for an attacker. For example, if an employee opens a malicious email attachment or installs an unsafe application, the attacker may gain access to the organization's network. Therefore, having security controls only at the network level is not enough. Individual endpoints also need proper protection.
 
- About the Organization
+< About the Organization >
 
 GreenTrust Finance is a medium-sized financial institution that provides services such as personal loans, business loans, savings accounts and online financial services.
 
