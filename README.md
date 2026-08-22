@@ -4,13 +4,14 @@
                                                                                                         REG NO : (192512276)
 1. Introduction
 
-In a financial institution, computer systems and employee devices are very important because most of the daily work depends on technology. Employees use laptops, desktops, mobile devices and servers to access customer information, financial records, emails and internal applications. Because of this, protecting these devices is not only an IT responsibility but also an important part of protecting the organization itself.
+   i am s.mishal today i am going to write about the the topic of Develop a portfolio documenting endpoint security policy creation for a
+financial institution and Endpoint security policy creation for a financial institution is the process of developing rules and security measures to protect the organization’s computers, laptops, data, and users from cyber threats and unauthorized access.
 
-For this portfolio, I have considered a fictional financial institution called GreenTrust Finance. The purpose of this project is to develop an endpoint security policy that can help protect the organization's devices from malware, unauthorized access, data theft and other security problems.
+In a financial institution, computer systems and employee devices are very important because most of the daily work depends on technology. Employees use laptops, desktops, mobile devices and servers to access customer information, financial records, emails and internal applications. Because of this, protecting these devices is not only an IT responsibility but also an important part of protecting the organization itself.
 
 I selected endpoint security because an employee's computer can become an easy entry point for an attacker. For example, if an employee opens a malicious email attachment or installs an unsafe application, the attacker may gain access to the organization's network. Therefore, having security controls only at the network level is not enough. Individual endpoints also need proper protection.
 
-2. About the Organization
+ About the Organization
 
 GreenTrust Finance is a medium-sized financial institution that provides services such as personal loans, business loans, savings accounts and online financial services.
 
@@ -28,7 +29,7 @@ Internal emails and reports
 
 Because financial information is sensitive, the organization needs strong security controls. A security incident could result in financial loss, legal problems, loss of customer trust and damage to the company's reputation.
 
-3. Purpose of the Endpoint Security Policy
+ Purpose of the Endpoint Security Policy
 
 The main purpose of this endpoint security policy is to establish clear rules for protecting all company-owned endpoint devices.
 
@@ -44,7 +45,7 @@ Reduce the possibility of data being copied to unauthorized devices.
 Provide guidelines for employees working remotely.
 Create a clear process for reporting security incidents.
 Maintain security records for auditing and compliance purposes.
-4. Scope of the Policy
+Scope of the Policy
 
 The policy applies to all employees, contractors and authorized third parties who use GreenTrust Finance systems.
 
@@ -61,7 +62,7 @@ Removable storage devices
 
 Personally owned devices should not be used to access highly sensitive financial systems unless they have been specifically approved and meet the organization's security requirements.
 
-5. Main Endpoint Security Risks
+ Main Endpoint Security Risks
 
 Before creating the policy, I identified some of the common risks that could affect the organization.
 
@@ -97,8 +98,7 @@ Remote Working
 
 Working from home or another location creates additional risks because employees may use different networks and environments outside the organization's direct control.
 
-6. Endpoint Security Policy
-6.1 Device Ownership and Registration
+  Endpoint Security Policy
 
 Every company endpoint must be registered with the IT department before it is given to an employee.
 
@@ -107,3 +107,9 @@ Each device should have a unique identification number so that the IT team can i
 Employees should not exchange company devices without informing the IT department.
 
 If a device is lost or stolen, the employee must report it as soon as possible.
+
+ Conclusion
+
+Endpoint security is an important part of protecting a financial institution because employees and systems depend heavily on computers and other digital devices.
+
+The endpoint security policy developed for GreenTrust Finance focuses on areas such as authentication, malware protection, software updates, encryption, application control, removable media, remote working, user privileges and incident reporting.
