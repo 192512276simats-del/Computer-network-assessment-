@@ -17,7 +17,7 @@ GreenTrust Finance is a medium-sized financial institution that provides service
 
 The organization has approximately 300 employees working from the main office and several smaller branches. Employees use company laptops and desktop computers to perform their daily activities. Some employees also work remotely.
 
-The company stores and processes sensitive information, including:
+< The company stores and processes sensitive information, including:
 
 Customer names and contact information
 Financial records
@@ -29,13 +29,13 @@ Internal emails and reports
 
 Because financial information is sensitive, the organization needs strong security controls. A security incident could result in financial loss, legal problems, loss of customer trust and damage to the company's reputation.
 
- Purpose of the Endpoint Security Policy
+< Purpose of the Endpoint Security Policy >
 
 The main purpose of this endpoint security policy is to establish clear rules for protecting all company-owned endpoint devices.
 
 The policy is designed to make sure that employees understand how they should use company devices and what security measures the IT department needs to maintain.
 
-The main objectives are:
+< The main objectives are:
 
 Protect company devices from malware and unauthorized software.
 Prevent unauthorized users from accessing company systems.
@@ -49,7 +49,7 @@ Scope of the Policy
 
 The policy applies to all employees, contractors and authorized third parties who use GreenTrust Finance systems.
 
-It covers:
+< It covers:
 
 Desktop computers
 Company laptops
@@ -62,41 +62,9 @@ Removable storage devices
 
 Personally owned devices should not be used to access highly sensitive financial systems unless they have been specifically approved and meet the organization's security requirements.
 
- Main Endpoint Security Risks
+< Main Endpoint Security Risks >
 
 Before creating the policy, I identified some of the common risks that could affect the organization.
-
-Malware
-
-Malware can enter an endpoint through email attachments, websites, downloaded files or infected USB devices. It can damage files or provide attackers with access to the system.
-
-Phishing
-
-Employees may receive fake emails pretending to come from managers, banks, customers or other trusted organizations. If an employee clicks a malicious link or provides credentials, attackers could use that information to access company resources.
-
-Weak Passwords
-
-Simple or reused passwords can make accounts easier to compromise. Since employees may have access to sensitive information, account security is particularly important.
-
-Outdated Software
-
-Operating systems and applications sometimes contain security vulnerabilities. If updates are not installed, attackers may take advantage of known weaknesses.
-
-Unauthorized Software
-
-Employees installing random applications can create security problems. Some applications may contain malware or may not be properly supported by the IT department.
-
-USB and Removable Devices
-
-USB drives can be used to transfer confidential information or introduce malicious software into company computers.
-
-Lost or Stolen Laptops
-
-A lost laptop could expose sensitive information if the device is not properly encrypted and protected.
-
-Remote Working
-
-Working from home or another location creates additional risks because employees may use different networks and environments outside the organization's direct control.
 
   Endpoint Security Policy
 
@@ -113,3 +81,4 @@ If a device is lost or stolen, the employee must report it as soon as possible.
 Endpoint security is an important part of protecting a financial institution because employees and systems depend heavily on computers and other digital devices.
 
 The endpoint security policy developed for GreenTrust Finance focuses on areas such as authentication, malware protection, software updates, encryption, application control, removable media, remote working, user privileges and incident reporting.
+In my view, the most effective endpoint security approach is a combination of technology, clear policies and employee awareness. If these three areas are maintained together, a financial institution can significantly improve its overall security and better protect both its business and its customers.
